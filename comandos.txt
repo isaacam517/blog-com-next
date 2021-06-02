@@ -1,0 +1,30 @@
+npm run dev
+npm install --save-dev typescript @types/react
+
+https://thispersondoesnotexist.com/
+
+npm i sass
+
+npm install --save @sanity/client
+
+npm install --save @sanity/image-url
+
+npm install date-fns --save
+
+npm install --save @sanity/block-content-to-react
+
+npm install highlight.js
+****npm i highlight.js@10.6.0 versão da aula
+
+npm install @types/react-dom --dev
+
+npm i groq
+
+https://isaac-martiniano-cms-blog.sanity.studio/
+
+continuar na aula 62
+
+https://loading.io/css
+
+https://www.udemy.com/course/desenvolvendo-blog-internacional-com-sanity-e-next/learn/lecture/25555050#questions
+
