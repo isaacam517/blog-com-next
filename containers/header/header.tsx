@@ -32,7 +32,7 @@ export default function Header({ locale }) {
                 <div className={styles.logo}>
                     <Link href='/'>
                         <a>
-                            <Image src='/logo.png' alt='Logo' width='180' height='50' />
+                            <Image src='/logo.PNG' alt='Logo' width='180' height='50' />
                         </a>
                     </Link>
                 </div>
