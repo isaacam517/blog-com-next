@@ -32,7 +32,7 @@ export default function Header({ locale }) {
                 <div className={styles.logo}>
                     <Link href='/'>
                         <a>
-                            <Image src='/logo.svg' alt='Logo' width='150' height='50' />
+                            <Image src='/logo.png' alt='Logo' width='180' height='50' />
                         </a>
                     </Link>
                 </div>
@@ -43,9 +43,11 @@ export default function Header({ locale }) {
                                 pathname: '/blog',
                                 query: { page: '1' }
                             }}>
-                                <a>Blog</a>
+                                <a>Notícias</a>
                             </Link>
                         </li>
+                        <li><a href="#">Entretenimentos</a></li>
+                        <li><a href="#">Informações</a></li>
                     </ul>
                 </nav>
                 <div className={styles.localeSwitcher}>

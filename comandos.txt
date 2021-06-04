@@ -22,6 +22,8 @@ npm i groq
 
 https://isaac-martiniano-cms-blog.sanity.studio/
 
+https://vercel.com/isaacam517/blog-com-next
+
 continuar na aula 62
 
 https://loading.io/css
